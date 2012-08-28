@@ -1,3 +1,5 @@
+package jp.co.dhw.review1;
+
 public class Teacher extends User {
 	private String subject;
 	public Teacher(Integer id, String firstName, String lastName, String subject) {

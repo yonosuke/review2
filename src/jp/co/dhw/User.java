@@ -1,3 +1,4 @@
+package jp.co.dhw.review1;
 
 public class User {
 	public Integer id;
